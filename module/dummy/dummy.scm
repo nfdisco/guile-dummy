@@ -3,7 +3,7 @@
 
 (define program-name (make-parameter "dummy"))
 
-(define dummy-version "0.1")
+(define dummy-version "1.0")
 
 (define (dummy)
   (display "Success.\n"))
