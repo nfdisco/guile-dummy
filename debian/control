@@ -1,0 +1,12 @@
+Source: guile-dummy
+Maintainer: nfdisco <nr9@posteo.de>
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 10), guile-2.0-dev
+
+Package: guile-dummy
+Architecture: all
+Depends: guile-2.0
+Description: Guile project template
+ A template for Guile projects.
+
